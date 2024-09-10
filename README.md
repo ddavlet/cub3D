@@ -14,11 +14,11 @@
 ## 🔥 Bonus Features
 In addition to the core functionalities, the project includes several **bonus features**:
 - **Mouse control**: Added mouse movement for enhanced player control.
-- **Sprite rendering**: Support for rendering 2D sprites within the 3D environment (e.g., enemies or items).
+- **Sprite rendering**: Support for rendering 2D sprites within the 3D environment (e.g. mushroom items).
 - **Minimap**: A functional minimap for real-time player navigation.
-- **Multiple Levels**: Added support for multiple levels with varying difficulties.
+- **Multiple Levels**: Added support for multiple maps with varying layout.
 - **Dynamic lighting**: Introduced lighting effects for a more immersive environment.
-- **Shadowing**: Enhanced shadowing for immersive distance
+- **Shadowing**: Enhanced shadowing for immersive distance environment
 
 ## 🛠️ Getting Started
 1. Clone the repository:
