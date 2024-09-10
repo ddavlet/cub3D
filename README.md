@@ -55,5 +55,6 @@ To run all maps test:
   ```bash
   ./test.sh
   ```
+## Demo
 
-[demo](https://github.com/ddavlet/cub3D/blob/main/gif/cub3D.gif)
+![demo](https://github.com/ddavlet/cub3D/blob/main/gif/cub3D.gif)
