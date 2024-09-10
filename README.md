@@ -37,3 +37,21 @@ Run the game:
 Mastering raycasting algorithms for real-time 3D rendering.
 Implementing efficient game loop and input handling.
 Enhancing gameplay through advanced features like mouse control and dynamic lighting.
+
+## 🧪 Testing
+To ensure the performance and stability of **cub3D**, the following testing tools are available:
+
+### 1. **Performance Testing (timing.d)**
+- A `timing.d` script is used to monitor the performance and ensure the game runs smoothly without frame drops or lag. This script measures the time taken by key functions during gameplay.
+
+### 2. **Map Testing Script**
+- A script is provided to automatically test all the maps in the `maps/` directory, ensuring that each map is loaded and rendered correctly without issues.
+
+To run the performance test:
+  ```bash
+  ./timing.d
+  ```
+To run all maps test:
+  ```bash
+  ./test.sh
+  ```
